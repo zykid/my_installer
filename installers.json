@@ -1,1 +1,11 @@
+{
+  "programs": [
+    {
+      "name": "安装 Plex + Emby + Telegram Bot",
+      "desc": "一键安装 Plex, Emby 并部署 Telegram 状态 Bot（请先在本地配置 token）",
+      "script_url": "https://raw.githubusercontent.com/你的用户名/my_installer/main/installers/install_media_server.sh",
+      "shell": true
+    }
+  ]
+}
 
